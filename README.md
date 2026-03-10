@@ -14,13 +14,21 @@ This portfolio showcases my **projects, internships, achievements, certification
 # ✨ Features
 
 🎨 Modern Dark UI — clean developer portfolio design
+
 📱 Fully Responsive — works on mobile, tablet, and desktop
+
 ⚡ Smooth Animations — scroll reveal and interactive UI
+
 🧑‍💻 Project Showcase — GitHub projects with details modal
+
 🏆 Achievements Section — awards and event recognitions
+
 🎓 Certifications Section — NPTEL, JLPT, and other certificates
+
 📊 GitHub Integration — repositories and activity preview
+
 📬 Contact Form — direct message sending via Formspree
+
 🌓 Dark / Light Theme Toggle
 
 ---
@@ -165,6 +173,7 @@ B.E. Electronics and Communication Engineering
 M. Kumarasamy College of Engineering, Karur
 
 📧 [sachindeepak4181@gmail.com](mailto:sachindeepak4181@gmail.com)
+
 📱 +91 7904455034
 
 🔗 GitHub
